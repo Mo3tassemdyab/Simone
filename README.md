@@ -1,0 +1,2 @@
+Simone 
+Bootstrap / Responsive / jQuery
