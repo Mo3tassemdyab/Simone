@@ -12,3 +12,9 @@ Live Demo : https://mo3tassemdyab.github.io/Simone/
 2- About
 
 ![simone 2](https://github.com/user-attachments/assets/fcc8fe30-541e-437c-a0f3-04ffea22cca9)
+
+3- Services
+![simone 3](https://github.com/user-attachments/assets/113252aa-cb35-4a0f-bd02-875d83634acd)
+
+
+
