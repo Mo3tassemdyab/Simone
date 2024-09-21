@@ -30,6 +30,10 @@ Live Demo : https://mo3tassemdyab.github.io/Simone/
 
 ![simone 7](https://github.com/user-attachments/assets/a40bf40f-c5b2-4b89-8e91-a8564e429cd0)
 
+7- Contact
+
+
+![simone 8](https://github.com/user-attachments/assets/cfc3ff76-ee85-4038-bd95-bc36f62cb621)
 
 
 
