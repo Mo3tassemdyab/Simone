@@ -26,6 +26,11 @@ Live Demo : https://mo3tassemdyab.github.io/Simone/
 5- Portfolio
 ![simone 6](https://github.com/user-attachments/assets/d08a1407-f6f8-4b59-aedf-abc10a16e138)
 
+6- Testimonial
+
+![simone 7](https://github.com/user-attachments/assets/a40bf40f-c5b2-4b89-8e91-a8564e429cd0)
+
+
 
 
 
